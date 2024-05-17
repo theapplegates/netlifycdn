@@ -1,0 +1,23 @@
+{
+  "name": "Roll-your-own-lazy-load",
+  "version": "2.0.0",
+  "description": "An example of using Netlify Image CDN to power a lightweight lazy image loading strategy",
+  "author": "Phil Hawksworth",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philhawksworth/rollyourownlazyload"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "sass": "^1.69.5",
+    "sharp": "^0.33.3",
+    "uglify-js": "^3.17.4"
+  }
+}

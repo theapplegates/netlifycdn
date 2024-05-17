@@ -1,0 +1,8 @@
+node_modules
+dist
+src/site/_includes/css
+src/site/_includes/js
+yarn-error.log
+
+# Local Netlify folder
+.netlify
