@@ -13,8 +13,13 @@ This is a testing blog right now. Unsplash credit will be fixed soon.
   {url: "jack-white-t1uQIBwGWKA-unsplash.jpg", credit: "NA", creditURL: "NA"},
   {url: "joanna-stolowicz-8BES7-Ljtco-unsplash.jpg", credit: "", creditURL: "NA"},
   {url: "khaled-ali-2P-E1dNbvaU-unsplash.jpg", credit: "NA", creditURL: "NA"},
-  {url: "vieste_italy.jpg", credit: "NA", creditURL: "NA"}
-] %}
+  {url: "vieste_italy.jpg", credit: "NA", creditURL: "NA"},
+  {url: "kateryna-hliznitsovaStreet_okzmrl.jpg", credit: "Kateryna Hliznitsova", creditURL: "https://unsplash.com/@kate_gliz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"},
+  {url: "PIA26150~orig.jpg", credit: "NASA/JPL-Caltech", creditURL: "https://photojournal.jpl.nasa.gov/catalog/PIA26150"},
+  {url: "another-tree_piamp7.jpg", credit: "NA", creditURL: "NA"},
+  {url: "Dad-kevin-meApril-10-2010_v29ucr.jpg", credit: "NA", creditURL: "NA"},
+  {url: "iPhone_Pic_p6uzjm.jpg", credit: "NA", creditURL: "NA"}
+  ] %}
 
 <section class="post-teaser">
 {%- for photo in somePhotos %}
