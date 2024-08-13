@@ -73,6 +73,7 @@ header {
 }
 
 h1, h2, h3 {
+  font-family: 'Inter Tight';
   color: $text-color;
   font-weight: 600;
   padding-top: 2em;
@@ -80,7 +81,7 @@ h1, h2, h3 {
   line-height: 1.2;
 }
 h1 {
-  font-family: Inter;
+  font-family: 'Inter Tight';
   @include bp(mid) {
     font-size: 2.4em;
   }
